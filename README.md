@@ -3,9 +3,7 @@ Matlab code of DMRG on 1D Heisenberg Model
 
 1维最近邻海森堡哈密顿量
 
-\begin{equation}
 H=J\sum_{ij}\bm{S}_i\bm{S}_j
-\end{equation}
   
 script_DMRG* 是主程序，v2是改进过的，其余是script* 调用的函数
 
